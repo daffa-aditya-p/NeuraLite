@@ -185,7 +185,7 @@ python3 main.py --model_path slm.pkl
 
 Training progress akan menampilkan:
 - ✅ **[INFO]** - Informasi umum
-- 🔄 **[EPOCH]** - Progress epoch
+- 🔄 **[EPOCH]** - Progress epoch?
 - 📉 **[LOSS]** - Loss value per batch
 - 💾 **[SAVE]** - Checkpoint saved
 
@@ -224,14 +224,18 @@ Proyek ini didistribusikan di bawah **MIT License**. Lihat file `LICENSE` untuk 
 ## 🙏 Acknowledgments
 
 - Terima kasih kepada komunitas NumPy untuk library yang luar biasa
-- Inspired by nanoGPT dan minimalist ML projects
-- Terima kasih kepada beta testers dari komunitas Termux Indonesia
+- Inspired by chatGPT 4o
+- Terima kasih kepada Orang orang yang telah mensupport saya.
 
 ---
 
+## 🚨 Perhatian
+- Code training ini dibuat 30% dengan AI namun dengan perhitungan yang pas
+- epoch Default 10
+- agar mendapatkan jawaban yang lebih natural, gunakanlah dataset traning 
 <p align="center">
   <strong>Dibuat dengan ❤️ oleh Daffa</strong><br>
-  <em>SMP-ers pertama pembuat SLM di Termux</em>
+  <em>Siswa SMP pertama pembuat SLM di Termux</em>
 </p>
 
 <p align="center">
