@@ -77,7 +77,7 @@ cd NeuraLite
 
 ### 2. Install Dependencies
 ```bash
-pip install numpy tqdm termcolor
+pip install -r requirements.txt
 ```
 
 ### 3. Siapkan Dataset
@@ -87,7 +87,7 @@ dataset.txt
 dataset2.txt
 dataset_human_large.txt
 ```
-
+## agar lebih baik dalam memahami teks, gunakan dataset yang lebih bagus dan canggih
 ## 🚀 Cara Penggunaan
 
 ### A. Training Model
@@ -225,17 +225,18 @@ Proyek ini didistribusikan di bawah **MIT License**. Lihat file `LICENSE` untuk 
 
 - Terima kasih kepada komunitas NumPy untuk library yang luar biasa
 - Inspired by chatGPT 4o
-- Terima kasih kepada Orang orang yang telah mensupport saya.
+- Terima kasih kepada Orang orang yang telah mendukung saya
 
 ---
 
 ## 🚨 Perhatian
 - Code training ini dibuat 30% dengan AI namun dengan perhitungan yang pas
 - epoch Default 10
-- agar mendapatkan jawaban yang lebih natural, gunakanlah dataset traning 
+- agar mendapatkan jawaban yang lebih natural, gunakanlah dataset lebih banyak dan lebih baik
 <p align="center">
   <strong>Dibuat dengan ❤️ oleh Daffa</strong><br>
   <em>Siswa SMP pertama pembuat SLM di Termux</em>
+  <em> 00:43 WIB, 27-05-2025</em>
 </p>
 
 <p align="center">
